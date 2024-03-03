@@ -1,0 +1,10 @@
+http_server:
+  port: 8080
+  host: 0.0.0.0
+
+database:
+  name: social
+  port: 3306
+  host: db
+  user: root
+  password: password
